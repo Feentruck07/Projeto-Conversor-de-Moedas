@@ -1,5 +1,4 @@
 <h1 align="center"> Projeto Conversor de moedas </h1>
-<p align="center">
 <img>![Badge-Conversor](https://github.com/user-attachments/assets/14880c53-2388-4f3a-bb3f-3c2e6240de59)</img>
 <br></br>
 <p align="center">
